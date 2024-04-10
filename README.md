@@ -1,4 +1,4 @@
-# News-App
+# A Delivery app
 A Delivery app is an online platform that allows users to browse and order food from a variety of restaurants by using React Native, Expo, Redux for the Frontend and Sanity for the CMS. 
 It supports features such as:
 - Displaying a list of restaurants, categories, and food details.

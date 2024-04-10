@@ -7,6 +7,7 @@ It supports features such as:
 <img src="https://github.com/phamtrongsang11/Delivery-App/assets/101312630/f893289f-4419-4851-aa60-9631232322f7"  width="30%" height="30%">
 <img src="https://github.com/phamtrongsang11/Delivery-App/assets/101312630/286237a4-fda1-4c5b-8fcf-3f4bb7ca0a3e"  width="30%" height="30%">
 <img src="https://github.com/phamtrongsang11/Delivery-App/assets/101312630/c36b32c0-162a-4f44-84ec-dc279ff6e9a6"  width="30%" height="30%">
+<img src="https://github.com/phamtrongsang11/Delivery-App/assets/101312630/cc2c4f56-2962-45e6-9e01-920d1d3a0105"  width="30%" height="30%">
 
 ## Getting Start
 To run the app, simply run:
